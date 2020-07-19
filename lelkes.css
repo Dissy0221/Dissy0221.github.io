@@ -1,0 +1,15 @@
+body {
+    font-style: italic;
+    font-size: 30px;
+    color: white;
+}
+
+h2 {
+    font-size: 80px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+html {
+    background: url("img/Alelkes.jpg")
+}
