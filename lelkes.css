@@ -4,6 +4,21 @@ body {
     color: white;
 }
 
+a {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: 100px;
+    font-weight: 700px;
+    background-color: rgba(105, 34, 146, 0.507);
+    
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
 h2 {
     font-size: 80px;
     margin-top: 40px;

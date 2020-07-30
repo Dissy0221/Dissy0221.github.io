@@ -5,9 +5,15 @@ body {
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 80px;
     margin-top: 40px;
     margin-left: 100px;
+}
+
+h3 {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 80px;
 }
 
 html {
